@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "dyrad",
+    "serviceName": "AppSync",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-09-30T12:42:08.909Z",
+      "keyDescription": "dyradAppsyncApiKey"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}

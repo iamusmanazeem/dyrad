@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "api": {
+      "dyrad": [
+        "Query",
+        "Mutation",
+        "Subscription"
+      ]
+    }
+  },
+  "lambdaLayers": []
+}

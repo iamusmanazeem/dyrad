@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-dyrad-dev-170138-authRole",
+      "UnauthRoleArn": "arn:aws:iam::771060663901:role/amplify-dyrad-dev-170138-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::771060663901:role/amplify-dyrad-dev-170138-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-dyrad-dev-170138-deployment",
+      "UnauthRoleName": "amplify-dyrad-dev-170138-unauthRole",
+      "StackName": "amplify-dyrad-dev-170138",
+      "StackId": "arn:aws:cloudformation:us-east-1:771060663901:stack/amplify-dyrad-dev-170138/a6ca6bf0-40b7-11ed-a244-0e075a0539b1",
+      "AmplifyAppId": "d2di0m3751g8h4"
+    },
+    "categories": {
+      "function": {
+        "mergePdfFunction": {
+          "deploymentBucketName": "amplify-dyrad-dev-170138-deployment",
+          "s3Key": "amplify-builds/mergePdfFunction-62454432455647433573-build.zip"
+        }
+      }
+    }
+  }
+}

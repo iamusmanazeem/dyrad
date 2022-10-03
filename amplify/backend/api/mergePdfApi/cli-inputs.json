@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/mergePdf": {
+      "name": "/mergePdf",
+      "lambdaFunction": "mergePdfFunction",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}
